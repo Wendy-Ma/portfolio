@@ -10,6 +10,8 @@ Besides my interest in the data field, I have a passion for road trips. I love e
 - Systematically learn the color theory and visual perception and apply them to data visualizations
 - Get hands-on practice with tools like Tableau or PowerBI to make better graphs
 - Learning how to use visualization to tell a good business story.
+- Will look for jobs as data scientist or data analyst after graduation.
+  
   
 # Portfolio
 
