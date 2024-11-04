@@ -1,5 +1,5 @@
 # Part 1: Working with web-based visualization tools and data
-![government-debt-bar-chart](/government-debt/government-debt.png)
+![government-debt-bar-chart](government-debt/government-debt.png)
 
 
 # Part 2: Working with Tableau
@@ -73,7 +73,9 @@
 </script>
 
 According to the map plot, I found that the countries in North America (Canada, USA, Mexico) have ratio under 100 from 2004-2009 and then have ratio larger than 100 after 2009. Japan has a gradually increasing trend from 1995 to 2019.
+
 I still used orange and blue divergence color because I think it is clearer to see the comparison. And two colors could seperate the regions which didn't have any datapoint. I added the data label to ensure users could see the exact value of the ratio. I also added the filter to ensure the users could see the data in different years.
+
 The pros of bar chart are that it is easy to read and compare the data in one specific year. The cons are that it is hard to compare the data in different years.
 The pros of highlight table are that we could see every datapoint in one table and could compare the data in different years by strong constrast of colors. Also we could have a direct sense of which data point is missing. The cons is that there are too many data points in one table so it is hard to show all of them to the audience. If we need to present them in a slide like we usually need to do in the workplace, it is impossible to paste the full picture into the slide.
-The pros of map plot are that we could see the geographical representation of location directly and compare the values. As for me, it is hard for me to match the country/region code to the country itself so a map plot is more intuitive for me. And it is easier to get insights about geographical trend, like the trend of North America from 2004-2009. The cons are that the plot couldn't depict the data in different years and it will be hard to look at some small countries if the users couldn't zoom in,
+The pros of map plot are that we could see the geographical representation of location directly and compare the values. As for me, it is hard for me to match the country/region code to the country itself so a map plot is more intuitive for me. And it is easier to get insights about geographical trend, like the trend of North America from 2004-2009. The cons are that the plot couldn't depict the data in different years and it will be hard to look at some small countries if the users couldn't zoom in.
