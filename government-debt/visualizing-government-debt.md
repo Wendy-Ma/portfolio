@@ -1,5 +1,5 @@
 # Part 1: Working with web-based visualization tools and data
-![government-debt-bar-chart](government-debt/government-debt.png)
+![government-debt-bar-chart](government-debt.png)
 
 
 # Part 2: Working with Tableau
