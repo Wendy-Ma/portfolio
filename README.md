@@ -15,7 +15,7 @@ Besides my interest in the data field, I have a passion for road trips. I love e
   
 # Portfolio
 
-## Assignment: [Visualizing government Debt](https://wendy-ma.github.io/portfolio/government-debt.html)
+## Assignment: [Visualizing government Debt](https://wendy-ma.github.io/portfolio/visualizing-government-debt.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
@@ -28,4 +28,3 @@ Here it might be helpful to include a high-level description of your final proje
 Part III(final-project-part-three)
 
 
-![funny dog picture](/image/government-debt.png)

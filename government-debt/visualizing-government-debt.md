@@ -1,3 +1,9 @@
+# Part 1: Working with web-based visualization tools and data
+![government-debt-bar-chart](/government-debt/government-debt.png)
+
+
+# Part 2: Working with Tableau
+
 <div class="tableauPlaceholder" id="viz1730689770739" style="position: relative;">
     <noscript>
         <a href="#">
@@ -30,3 +36,4 @@
     scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
