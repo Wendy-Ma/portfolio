@@ -24,7 +24,7 @@ and used the conclusion as the new title. And I also delete the annotation for i
 
 This is the sketch of my redesign:
 
-![sketch](/books-price/sketch.png)
+![sketch](sketch.png)
 
 ## Step 3: User feedback
 
@@ -38,7 +38,7 @@ I change the color of book price to red and all products price to black to make 
 And I changed the annotation of the reference line to '2015 prices are used as reference point, set to 100.' to make it clearer
 
 This is the redesign according to the feedback:
-![sketch_2](/books-price/sketch2.png)
+![sketch_2](sketch2.png)
 This is not the end of the story. I did another round of user feedback and they like how I aggregated the data and considered the title and index.
 There is just a minor change suggested that I could make the color of all products line to grey so the books line will be more outstanding.
 
