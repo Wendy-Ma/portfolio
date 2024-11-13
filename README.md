@@ -17,7 +17,7 @@ Besides my interest in the data field, I have a passion for road trips. I love e
 
 ## Assignment: [Visualizing government Debt](government-debt/visualizing-government-debt.md)
 
-## Assignment 3&4: [Critique by Design](https://wendy-ma.github.io/portfolio/books-price.md)
+## Assignment 3&4: [Critique by Design](books-price/books-price.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
