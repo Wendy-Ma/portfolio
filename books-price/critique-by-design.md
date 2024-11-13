@@ -45,8 +45,9 @@ But there are some fields need to be improved.
 2. They still couldn't understand the meaning of the index even if it is indicated by the grey-dotted line.
 
 ## Step 4: Redesign according to the feedback
-I change the color of book price to red and all products price to black to make the book price stands out.
-And I changed the annotation of the reference line to '2015 prices are used as reference point, set to 100.' to make it clearer
+I changed the color of the book price to red and all product prices to black to make the book price stand out.
+And I changed the annotation of the reference line to '2015 prices are used as reference point, set to 100.' to make it clearer.
+Additionally, I scaled the y-axis to make the contrast clearer.
 
 This is the redesign according to the feedback:
 ![sketch_2](sketch2.png)
