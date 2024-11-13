@@ -5,7 +5,7 @@ relationship between books and overall comsumer prices. When I first looked at t
 There are too many fluctuations in two lines which makes it confusing to summarize the overall trend. Then the title doesn't answer my confusion neither. And the color for books price is not pop-out at the first glance.
 Thus I decided to redesign this visualization to make it more clear and easy to understand.
 
-![original](/books-price/original.png)
+![original](original.png)
 
 Original dataset: [book-price](https://data.world/makeovermonday/2020w38)
 
@@ -39,6 +39,7 @@ And I changed the annotation of the reference line to '2015 prices are used as r
 
 This is the redesign according to the feedback:
 ![sketch_2](sketch2.png)
+
 This is not the end of the story. I did another round of user feedback and they like how I aggregated the data and considered the title and index.
 There is just a minor change suggested that I could make the color of all products line to grey so the books line will be more outstanding.
 
