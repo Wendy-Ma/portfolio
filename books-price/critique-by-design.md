@@ -2,13 +2,13 @@
 # Pick up a book and read!
 I choose this particular dataset out of curiosity to explore the pattern of book price after the surge of social media-driven content. This dataset is a good start to explore the
 relationship between books and overall comsumer prices. When I first looked at the original visualization, I found that I couldn't understand the story behind it at all.
-There are too many fluctuations in two lines which makes it confusing to summarize the overall trend. Then the title doesn't answer my confusion neither. And the color for books price is not pop-out at the first glance.
+There are too many fluctuations of monthly data in two lines which makes it confusing to summarize the overall trend. Then the title doesn't answer my confusion neither. And the color for books price is not pop-out at the first glance.
 Thus I decided to redesign this visualization to make it more clear and easy to understand.
 
 ![original](original.png)
 
 Original dataset: [book-price](https://data.world/makeovermonday/2020w38)
-
+Data description: The dataset contains the price index for books and all products different countries of every monthm from 2009 to 2020. The price index is set to 100 in 2015.
 
 # My redesign journey
 ## Step 1: Critique the original visualization
@@ -19,7 +19,18 @@ Additionally, there is one annotation on the top left corner indicating the inde
 for clarification.
 
 ## Step 2: Sketches
-According to the critique, I decided to aggregate the data into yearly data to reduce the fluctuation and make the trend clearer. After that, I summarized the overall trend 
+According to the critique, I decided to aggregate the data into yearly data to reduce the fluctuation and make the trend clearer. 
+
+To achieve this, these are steps I took in Tableau:
+
+1. use price as rows and set it as average.
+2. Preprocess date data using caculated field to get the year from the date. 
+3. Set year data as columns.
+4. Set country as filter and choose EU as the country
+5. Use category as color and use the default color for books and all products
+6. Set a reference line for 100 using analytics tools.
+
+After that, I summarized the overall trend 
 and used the conclusion as the new title. And I also delete the annotation for index but put a grey-dotted reference line to indicate the index.
 
 This is the sketch of my redesign:
@@ -28,7 +39,7 @@ This is the sketch of my redesign:
 
 ## Step 3: User feedback
 
-Then I showed my sketch to my classmates and asked them to interpret the sketch. They all said that the trend is clear and they could see the overall trend easily after the change.
+Then I showed my sketch to two classmates and asked them to interpret the sketch. They all said that the trend is clear and they could see the overall trend easily after the change.
 But there are some fields need to be improved. 
 1. The color for books price is not pop-out at the first glance.
 2. They still couldn't understand the meaning of the index even if it is indicated by the grey-dotted line.
@@ -40,7 +51,7 @@ And I changed the annotation of the reference line to '2015 prices are used as r
 This is the redesign according to the feedback:
 ![sketch_2](sketch2.png)
 
-This is not the end of the story. I did another round of user feedback and they like how I aggregated the data and considered the title and index.
+This is not the end of the story. I did another round of user feedback of two friends and they like how I aggregated the data and considered the title and index.
 There is just a minor change suggested that I could make the color of all products line to grey so the books line will be more outstanding.
 
 ## Step 5: Final visualization
