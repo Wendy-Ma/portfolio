@@ -1,4 +1,3 @@
-1. A link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source.  
 # Pick up a book and read!
 I choose this particular dataset out of curiosity to explore the pattern of book price after the surge of social media-driven content. This dataset is a good start to explore the
 relationship between books and overall comsumer prices. When I first looked at the original visualization, I found that I couldn't understand the story behind it at all.
