@@ -20,8 +20,8 @@ Besides my interest in the data field, I have a passion for road trips. I love e
 ## Assignment 3&4: [Critique by Design](books-price/critique-by-design.md)
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](part1/final_project_WendyMa.md)
+Part 1: [Part I](part1/final_project_WendyMa.md)
+Here it might be helpful to include a high-level description of your final project.
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
