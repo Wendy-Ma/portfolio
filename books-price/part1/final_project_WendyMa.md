@@ -233,7 +233,14 @@ to recover their healthy sleep pattern.
 ## Data source:
 Most of the data are from the America's Health Rankings Annual Report, National Sleep Foundation and Statista sleeping reports. In the the America's Health Rankings 2023 Annual Report
 I will explore the percentage of different group of people are affected by insufficient sleep. Using statistic data, I will look at the impact of insufficient sleep and the sleeping aids audience could use.
+
 https://www.americashealthrankings.org/explore/measures/reports/annual
+
 https://www.thensf.org/how-many-hours-of-sleep-do-you-really-need/
+
 https://www.statista.com/statistics/1414465/leading-reasons-for-a-poor-nights-sleep/
+
 https://www.statista.com/statistics/1310945/impact-of-sleep-select-aspects-life-sleep-us-by-gender/
+
+## Methods
+I will use shorthand and Tableau as building tools.
