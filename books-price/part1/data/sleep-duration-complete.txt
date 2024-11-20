@@ -1,0 +1,181 @@
+age_group,age_range,hour,status
+Older Adult,≥ 65 Years,1,Not Recommended
+Older Adult,≥ 65 Years,2,Not Recommended
+Older Adult,≥ 65 Years,3,Not Recommended
+Older Adult,≥ 65 Years,4,Not Recommended
+Older Adult,≥ 65 Years,5,May Be Appropriate
+Older Adult,≥ 65 Years,6,May Be Appropriate
+Older Adult,≥ 65 Years,7,Recommended Range
+Older Adult,≥ 65 Years,8,Recommended Range
+Older Adult,≥ 65 Years,9,Recommended Range
+Older Adult,≥ 65 Years,10,Not Recommended
+Older Adult,≥ 65 Years,11,Not Recommended
+Older Adult,≥ 65 Years,12,Not Recommended
+Older Adult,≥ 65 Years,13,Not Recommended
+Older Adult,≥ 65 Years,14,Not Recommended
+Older Adult,≥ 65 Years,15,Not Recommended
+Older Adult,≥ 65 Years,16,Not Recommended
+Older Adult,≥ 65 Years,17,Not Recommended
+Older Adult,≥ 65 Years,18,Not Recommended
+Older Adult,≥ 65 Years,19,Not Recommended
+Older Adult,≥ 65 Years,20,Not Recommended
+Adult,26-64 Years,1,Not Recommended
+Adult,26-64 Years,2,Not Recommended
+Adult,26-64 Years,3,Not Recommended
+Adult,26-64 Years,4,Not Recommended
+Adult,26-64 Years,5,Not Recommended
+Adult,26-64 Years,6,May Be Appropriate
+Adult,26-64 Years,7,Recommended Range
+Adult,26-64 Years,8,Recommended Range
+Adult,26-64 Years,9,Recommended Range
+Adult,26-64 Years,10,May Be Appropriate
+Adult,26-64 Years,11,Not Recommended
+Adult,26-64 Years,12,Not Recommended
+Adult,26-64 Years,13,Not Recommended
+Adult,26-64 Years,14,Not Recommended
+Adult,26-64 Years,15,Not Recommended
+Adult,26-64 Years,16,Not Recommended
+Adult,26-64 Years,17,Not Recommended
+Adult,26-64 Years,18,Not Recommended
+Adult,26-64 Years,19,Not Recommended
+Adult,26-64 Years,20,Not Recommended
+Young Adult,18-25 Years,1,Not Recommended
+Young Adult,18-25 Years,2,Not Recommended
+Young Adult,18-25 Years,3,Not Recommended
+Young Adult,18-25 Years,4,Not Recommended
+Young Adult,18-25 Years,5,Not Recommended
+Young Adult,18-25 Years,6,May Be Appropriate
+Young Adult,18-25 Years,7,Recommended Range
+Young Adult,18-25 Years,8,Recommended Range
+Young Adult,18-25 Years,9,Recommended Range
+Young Adult,18-25 Years,10,Recommended Range
+Young Adult,18-25 Years,11,May Be Appropriate
+Young Adult,18-25 Years,12,Not Recommended
+Young Adult,18-25 Years,13,Not Recommended
+Young Adult,18-25 Years,14,Not Recommended
+Young Adult,18-25 Years,15,Not Recommended
+Young Adult,18-25 Years,16,Not Recommended
+Young Adult,18-25 Years,17,Not Recommended
+Young Adult,18-25 Years,18,Not Recommended
+Young Adult,18-25 Years,19,Not Recommended
+Young Adult,18-25 Years,20,Not Recommended
+Teenager,14-17 Years,1,Not Recommended
+Teenager,14-17 Years,2,Not Recommended
+Teenager,14-17 Years,3,Not Recommended
+Teenager,14-17 Years,4,Not Recommended
+Teenager,14-17 Years,5,Not Recommended
+Teenager,14-17 Years,6,Not Recommended
+Teenager,14-17 Years,7,May Be Appropriate
+Teenager,14-17 Years,8,Recommended Range
+Teenager,14-17 Years,9,Recommended Range
+Teenager,14-17 Years,10,Recommended Range
+Teenager,14-17 Years,11,May Be Appropriate
+Teenager,14-17 Years,12,Not Recommended
+Teenager,14-17 Years,13,Not Recommended
+Teenager,14-17 Years,14,Not Recommended
+Teenager,14-17 Years,15,Not Recommended
+Teenager,14-17 Years,16,Not Recommended
+Teenager,14-17 Years,17,Not Recommended
+Teenager,14-17 Years,18,Not Recommended
+Teenager,14-17 Years,19,Not Recommended
+Teenager,14-17 Years,20,Not Recommended
+School Age,6-13 Years,1,Not Recommended
+School Age,6-13 Years,2,Not Recommended
+School Age,6-13 Years,3,Not Recommended
+School Age,6-13 Years,4,Not Recommended
+School Age,6-13 Years,5,Not Recommended
+School Age,6-13 Years,6,Not Recommended
+School Age,6-13 Years,7,May Be Appropriate
+School Age,6-13 Years,8,May Be Appropriate
+School Age,6-13 Years,9,Recommended Range
+School Age,6-13 Years,10,Recommended Range
+School Age,6-13 Years,11,Recommended Range
+School Age,6-13 Years,12,May Be Appropriate
+School Age,6-13 Years,13,Not Recommended
+School Age,6-13 Years,14,Not Recommended
+School Age,6-13 Years,15,Not Recommended
+School Age,6-13 Years,16,Not Recommended
+School Age,6-13 Years,17,Not Recommended
+School Age,6-13 Years,18,Not Recommended
+School Age,6-13 Years,19,Not Recommended
+School Age,6-13 Years,20,Not Recommended
+Preschool,3-5 Years,1,Not Recommended
+Preschool,3-5 Years,2,Not Recommended
+Preschool,3-5 Years,3,Not Recommended
+Preschool,3-5 Years,4,Not Recommended
+Preschool,3-5 Years,5,Not Recommended
+Preschool,3-5 Years,6,Not Recommended
+Preschool,3-5 Years,7,Not Recommended
+Preschool,3-5 Years,8,May Be Appropriate
+Preschool,3-5 Years,9,May Be Appropriate
+Preschool,3-5 Years,10,Recommended Range
+Preschool,3-5 Years,11,Recommended Range
+Preschool,3-5 Years,12,Recommended Range
+Preschool,3-5 Years,13,May Be Appropriate
+Preschool,3-5 Years,14,May Be Appropriate
+Preschool,3-5 Years,15,Not Recommended
+Preschool,3-5 Years,16,Not Recommended
+Preschool,3-5 Years,17,Not Recommended
+Preschool,3-5 Years,18,Not Recommended
+Preschool,3-5 Years,19,Not Recommended
+Preschool,3-5 Years,20,Not Recommended
+Toddler,1-2 Years,1,Not Recommended
+Toddler,1-2 Years,2,Not Recommended
+Toddler,1-2 Years,3,Not Recommended
+Toddler,1-2 Years,4,Not Recommended
+Toddler,1-2 Years,5,Not Recommended
+Toddler,1-2 Years,6,Not Recommended
+Toddler,1-2 Years,7,Not Recommended
+Toddler,1-2 Years,8,Not Recommended
+Toddler,1-2 Years,9,May Be Appropriate
+Toddler,1-2 Years,10,May Be Appropriate
+Toddler,1-2 Years,11,Recommended Range
+Toddler,1-2 Years,12,Recommended Range
+Toddler,1-2 Years,13,Recommended Range
+Toddler,1-2 Years,14,May Be Appropriate
+Toddler,1-2 Years,15,Not Recommended
+Toddler,1-2 Years,16,Not Recommended
+Toddler,1-2 Years,17,Not Recommended
+Toddler,1-2 Years,18,Not Recommended
+Toddler,1-2 Years,19,Not Recommended
+Toddler,1-2 Years,20,Not Recommended
+Infant,4-11 Months,1,Not Recommended
+Infant,4-11 Months,2,Not Recommended
+Infant,4-11 Months,3,Not Recommended
+Infant,4-11 Months,4,Not Recommended
+Infant,4-11 Months,5,Not Recommended
+Infant,4-11 Months,6,Not Recommended
+Infant,4-11 Months,7,Not Recommended
+Infant,4-11 Months,8,Not Recommended
+Infant,4-11 Months,9,Not Recommended
+Infant,4-11 Months,10,May Be Appropriate
+Infant,4-11 Months,11,May Be Appropriate
+Infant,4-11 Months,12,Recommended Range
+Infant,4-11 Months,13,Recommended Range
+Infant,4-11 Months,14,Recommended Range
+Infant,4-11 Months,15,Recommended Range
+Infant,4-11 Months,16,Recommended Range
+Infant,4-11 Months,17,May Be Appropriate
+Infant,4-11 Months,18,Not Recommended
+Infant,4-11 Months,19,Not Recommended
+Infant,4-11 Months,20,Not Recommended
+Newborn,0-3 Months,1,Not Recommended
+Newborn,0-3 Months,2,Not Recommended
+Newborn,0-3 Months,3,Not Recommended
+Newborn,0-3 Months,4,Not Recommended
+Newborn,0-3 Months,5,Not Recommended
+Newborn,0-3 Months,6,Not Recommended
+Newborn,0-3 Months,7,Not Recommended
+Newborn,0-3 Months,8,Not Recommended
+Newborn,0-3 Months,9,Not Recommended
+Newborn,0-3 Months,10,Not Recommended
+Newborn,0-3 Months,11,May Be Appropriate
+Newborn,0-3 Months,12,May Be Appropriate
+Newborn,0-3 Months,13,Recommended Range
+Newborn,0-3 Months,14,Recommended Range
+Newborn,0-3 Months,15,Recommended Range
+Newborn,0-3 Months,16,Recommended Range
+Newborn,0-3 Months,17,Recommended Range
+Newborn,0-3 Months,18,May Be Appropriate
+Newborn,0-3 Months,19,Not Recommended
+Newborn,0-3 Months,20,Not Recommended
