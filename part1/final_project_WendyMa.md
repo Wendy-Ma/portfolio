@@ -243,4 +243,4 @@ https://www.statista.com/statistics/1414465/leading-reasons-for-a-poor-nights-sl
 https://www.statista.com/statistics/1310945/impact-of-sleep-select-aspects-life-sleep-us-by-gender/
 
 ## Methods
-I will use shorthand and Tableau as building tools.
+I will use shorthand for presentation and Tableau for visualization as building tools.
