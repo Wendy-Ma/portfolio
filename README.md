@@ -22,7 +22,7 @@ Besides my interest in the data field, I have a passion for road trips. I love e
 ## Final project
 [Part I](part1/final_project_WendyMa.md)
 [Part II](part2/final_project2_WendyMa.md)
-[Part III](part3/final_project2_WendyMa.md)
+[Part III](part3/final_project3_WendyMa.md)
 
 
 
