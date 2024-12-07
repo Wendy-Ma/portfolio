@@ -20,10 +20,9 @@ Besides my interest in the data field, I have a passion for road trips. I love e
 ## Assignment 3&4: [Critique by Design](books-price/critique-by-design.md)
 
 ## Final project
-Part 1: [Part I](part1/final_project_WendyMa.md)
-
+[Part I](part1/final_project_WendyMa.md)
 [Part II](part2/final_project2_WendyMa.md)
-Part III(final-project-part-three)
+[Part III](part3/final_project2_WendyMa.md)
 
 
 
