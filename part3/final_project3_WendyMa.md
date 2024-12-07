@@ -67,11 +67,17 @@ This page is the only one flagged by Turnitin. Since Non-REM sleep and REM sleep
 
 Reference:
 https://www.thensf.org/how-many-hours-of-sleep-do-you-really-need/
+
 https://www.cdc.gov/pcd/issues/2022/22_0060.htm
+
 https://www.americashealthrankings.org/explore/measures/reports/annual
+
 https://www.statista.com/statistics/1414465/leading-reasons-for-a-poor-nights-sleep/
+
 https://www.statista.com/statistics/1310945/impact-of-sleep-select-aspects-life-sleep-us-by-gender/
+
 https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep
+
 https://www.sleepapnea.org/sleep-health/stages-of-sleep/
 
 # Final thoughts
