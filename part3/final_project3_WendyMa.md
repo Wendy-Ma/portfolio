@@ -29,7 +29,7 @@ Finally, I would like to provide some tips on how to improve sleep quality and h
 I added one paragraph to introduce what insufficient sleep will cause negatively to our health in detail.
 ![health.png](screenshot/health.png)
 
-Besides directly showing the methods to improve sleep quality, it is also necessary for us to understand our sleep cycle before design our personal bedtime routine.
+Besides directly showing the methods to improve sleep quality, it is also necessary for us to understand our sleep cycle before designing our personal bedtime routine.
 ![sleep_cycle.png](screenshot/sleep_cycle.png)
 
 I think that professor gave me a really good feedback for my part 2 assignment that I could give more specific call to action. So based on the previous six recommendations, I gave out a more detailed and direct instructions for preparing a suitable sleep environment and designing bedtime routine.
