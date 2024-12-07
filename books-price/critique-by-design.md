@@ -1,3 +1,6 @@
+| [home page](https://wendy-ma.github.io/portfolio/) | [visualizing debt](https://wendy-ma.github.io/portfolio/government-debt/visualizing-government-debt.html) | [critique by design](https://wendy-ma.github.io/portfolio/books-price/critique-by-design.html) | [final project I](https://wendy-ma.github.io/portfolio/part1/final_project_WendyMa.html) | [final project II](https://wendy-ma.github.io/portfolio/part2/final_project2_WendyMa.html) | [final project III](https://wendy-ma.github.io/portfolio/part3/final_project3_WendyMa.html) |
+
+# Critique by Design
 # Pick up a book and read!
 I choose this particular dataset out of curiosity to explore the pattern of book price after the surge of social media-driven content. This dataset is a good start to explore the
 relationship between books and overall comsumer prices. When I first looked at the original visualization, I found that I couldn't understand the story behind it at all.

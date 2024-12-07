@@ -44,21 +44,21 @@ My intended audience are college students who have insufficient sleep. I am one 
 And there are many interesting insights could help them even decide which state they could move to if they care about their sleep quality.
 
 
-At first my focus audience are all people who have sleeping problems. But when I interview some friends, they suggested that I should focus on one specific group of audience.
+At first my focus audience are all people who have sleeping problems. But when I interviewed some friends, they suggested that I should focus on one specific group of audience.
 So I decided to face the college students and then looked for data for the overall percentage and geographic distribution for college students who are lack of sleep. And I made the data points pop out to make the story more eye-catching and engaging.
 At the beginning of the story, I directly show the recomended sleep duration for different age groups including young adults to let the target audience know clearly about the ideal sleep duration.
 Another thing I tailored for the audience is the plan to design a better sleep routine. The call to action is more specific and easier for student to follow.
 ## Final design decisions
 
 My narrative is starting with experts' recommendation of sleep duration for different age group including college students, which conflicts with the reality that 60% of students didn't get enough rest.
-Then I'd like to show how these percentage of students distributed in each state. In this part, I see an interesting overall trend that southern states have higher rate of insufficient sleep then northern states in college students.
-After introducing the status of insufficient sleep, I would like to dig deeper into the reasons behind why people have poor night quality and its negative impact on daily activities. Then I dig deeper into the relationship between income lebel and 
+Then I'd like to show how these percentage of students distributed in each state. In this part, I see an interesting overall trend that southern states have higher rate of insufficient sleep than northern states in college students.
+After introducing the status of insufficient sleep, I would like to dig deeper into the reasons behind why people have poor night quality and its negative impact on daily activities. Then I dig deeper into the relationship between income level and 
 insufficient sleep. Finally, the call to action is to firstly understand our sleep cycle and then a plan to design our sleep routine.
 
 I used this bubble chart to display the sleep duration for different age groups. I think this chart is easy to understand and show the changes when people grow older. 
 ![sleep_duration.png](screenshot/sleep_duration.png)
 
-I chose to use line chart to show the percentage of impacted women and men because it is clearer to show the percentage and women are more likely to be affected than men in all categories.
+I chose line chart to show the percentage of impacted women and men because it is clearer to show the percentage and women are more likely to be affected than men in all categories.
 ![gender_impact.png](screenshot/gender_impact.png)
 ## References
 
