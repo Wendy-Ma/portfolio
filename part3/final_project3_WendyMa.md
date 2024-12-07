@@ -21,7 +21,7 @@ After understanding the reasons of insufficient sleep, I would like to stress th
 After talking about the impact, I would like to introduce an interesting phenomenon that annual income doesn't affect the percentage of insufficient sleep. Everyone could be affected so we are not alone.
 ![universal issue.png](screenshot/universal%20issue.png)
 
-Finally, I would like to provide some tips on how to improve sleep quality and how to build a healthy sleep routine. The call to action will be encourage the audience to take actions to recover their healthy sleep pattern.
+Finally, I would like to provide some tips on how to improve sleep quality and how to build a healthy sleep routine. The call to action will be encouraging the audience to take actions to recover their healthy sleep pattern.
 ![action.png](screenshot/action.png)
 
 2. The second kind of changes I made are for the content. I have tried to enrich the content to make it more informative and engaging.
