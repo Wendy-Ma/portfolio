@@ -58,8 +58,16 @@ insufficient sleep. Finally, the call to action is to firstly understand our sle
 I used this bubble chart to display the sleep duration for different age groups. I think this chart is easy to understand and show the changes when people grow older. 
 ![sleep_duration.png](screenshot/sleep_duration.png)
 
+I chose the bar chart to show the leading reasons for a poor night's sleep because it is straightforward and relatable. The third reason resonated with me most since I always couldn't fall asleep because of the high temperature in the room.
+![reason.png](screenshot/reason.png)
+
 I chose line chart to show the percentage of impacted women and men because it is clearer to show the percentage and women are more likely to be affected than men in all categories.
 ![gender_impact.png](screenshot/gender_impact.png)
+
+I chose the bar chart to show the percentage of people who have insufficient sleep in different income level. It shows a same level of lack of sleep, which means it is more related to the sleep pattern and routine instead of annual income.
+How much people earn didn't affect the sleep quality. (Maybe billionaires are not happy with their sleep quality as well:) )
+![income.png](screenshot/income.png)
+
 ## References
 
 This page is the only one flagged by Turnitin. Since Non-REM sleep and REM sleep are jaragon, I didn't quoate them in the text. But I have added the citation link.
