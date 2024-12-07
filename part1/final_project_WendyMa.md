@@ -1,3 +1,6 @@
+
+| [home page](https://wendy-ma.github.io/portfolio/) | [visualizing debt](https://wendy-ma.github.io/portfolio/government-debt/visualizing-government-debt.html) | [critique by design](https://wendy-ma.github.io/portfolio/books-price/critique-by-design.html) | [final project I](https://wendy-ma.github.io/portfolio/part1/final_project_WendyMa.html) | [final project II](https://wendy-ma.github.io/portfolio/part2/final_project2_WendyMa.html) | [final project III](https://wendy-ma.github.io/portfolio/part3/final_project3_WendyMa.html) |
+
 # Final Project Part I: The Hidden Crisis of Insufficient Sleep in US
 
 ## Summary
